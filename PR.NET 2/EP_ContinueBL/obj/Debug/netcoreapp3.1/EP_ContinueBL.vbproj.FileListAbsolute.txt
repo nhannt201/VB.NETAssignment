@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.exe
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.dll
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\bin\Debug\netcoreapp3.1\EP_ContinueBL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.dll
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_ContinueBL\obj\Debug\netcoreapp3.1\EP_ContinueBL.genruntimeconfig.cache

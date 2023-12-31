@@ -1,0 +1,12 @@
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.exe
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.deps.json
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.runtimeconfig.json
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.runtimeconfig.dev.json
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.dll
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\bin\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.pdb
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.AssemblyInfoInputs.cache
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.AssemblyInfo.vb
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.dll
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.pdb
+D:\Learn VB.NET\OOP\EP6_StaticDataMethodMember\obj\Debug\netcoreapp3.1\EP6_StaticDataMethodMember.genruntimeconfig.cache

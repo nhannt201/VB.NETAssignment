@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exp4_MaxMin/1.0.0": {
+        "runtime": {
+          "Exp4_MaxMin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exp4_MaxMin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

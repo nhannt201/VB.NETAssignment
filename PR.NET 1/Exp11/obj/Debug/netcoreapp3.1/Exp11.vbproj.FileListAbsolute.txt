@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.exe
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.dll
+D:\Learn VB.NET\PR.NET 1\Exp11\bin\Debug\netcoreapp3.1\Exp11.pdb
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.dll
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.pdb
+D:\Learn VB.NET\PR.NET 1\Exp11\obj\Debug\netcoreapp3.1\Exp11.genruntimeconfig.cache

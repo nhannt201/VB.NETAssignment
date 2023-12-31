@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.exe
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.dll
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\bin\Debug\netcoreapp3.1\EP_WhileVL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.dll
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_WhileVL\obj\Debug\netcoreapp3.1\EP_WhileVL.genruntimeconfig.cache

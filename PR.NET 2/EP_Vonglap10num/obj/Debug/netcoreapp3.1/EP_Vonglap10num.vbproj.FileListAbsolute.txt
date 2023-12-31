@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.exe
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.dll
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\bin\Debug\netcoreapp3.1\EP_Vonglap10num.pdb
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.dll
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.pdb
+D:\Learn VB.NET\PR.NET 2\EP_Vonglap10num\obj\Debug\netcoreapp3.1\EP_Vonglap10num.genruntimeconfig.cache

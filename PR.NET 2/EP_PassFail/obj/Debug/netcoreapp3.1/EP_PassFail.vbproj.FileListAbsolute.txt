@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.exe
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.dll
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\bin\Debug\netcoreapp3.1\EP_PassFail.pdb
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.dll
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.pdb
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.genruntimeconfig.cache
+D:\Learn VB.NET\PR.NET 2\EP_PassFail\obj\Debug\netcoreapp3.1\EP_PassFail.vbprojAssemblyReference.cache

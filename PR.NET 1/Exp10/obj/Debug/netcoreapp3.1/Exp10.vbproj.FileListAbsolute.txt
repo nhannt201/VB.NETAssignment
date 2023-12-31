@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.exe
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.dll
+D:\Learn VB.NET\PR.NET 1\Exp10\bin\Debug\netcoreapp3.1\Exp10.pdb
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.dll
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.pdb
+D:\Learn VB.NET\PR.NET 1\Exp10\obj\Debug\netcoreapp3.1\Exp10.genruntimeconfig.cache

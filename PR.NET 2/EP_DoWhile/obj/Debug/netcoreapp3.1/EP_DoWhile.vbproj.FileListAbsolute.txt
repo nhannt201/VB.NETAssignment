@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.exe
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.dll
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\bin\Debug\netcoreapp3.1\EP_DoWhile.pdb
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.dll
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.pdb
+D:\Learn VB.NET\PR.NET 2\EP_DoWhile\obj\Debug\netcoreapp3.1\EP_DoWhile.genruntimeconfig.cache

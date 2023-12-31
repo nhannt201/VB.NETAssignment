@@ -1,0 +1,12 @@
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.exe
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.deps.json
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.runtimeconfig.json
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.runtimeconfig.dev.json
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.dll
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\bin\Debug\netcoreapp3.1\EP5_InheritanceApp.pdb
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.AssemblyInfoInputs.cache
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.AssemblyInfo.vb
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.dll
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.pdb
+D:\Learn VB.NET\OOP\EP5_InheritanceApp\obj\Debug\netcoreapp3.1\EP5_InheritanceApp.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.exe
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.dll
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\bin\Debug\netcoreapp3.1\Exp6_ChiaCapCase.pdb
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.dll
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.pdb
+D:\Learn VB.NET\PR.NET 1\Exp6_ChiaCapCase\obj\Debug\netcoreapp3.1\Exp6_ChiaCapCase.genruntimeconfig.cache

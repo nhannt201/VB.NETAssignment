@@ -1,0 +1,12 @@
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.exe
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.deps.json
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.runtimeconfig.json
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.runtimeconfig.dev.json
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.dll
+D:\Learn VB.NET\OOP\EP4_Employee\bin\Debug\netcoreapp3.1\EP4_Employee.pdb
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.AssemblyInfoInputs.cache
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.AssemblyInfo.vb
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.dll
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.pdb
+D:\Learn VB.NET\OOP\EP4_Employee\obj\Debug\netcoreapp3.1\EP4_Employee.genruntimeconfig.cache

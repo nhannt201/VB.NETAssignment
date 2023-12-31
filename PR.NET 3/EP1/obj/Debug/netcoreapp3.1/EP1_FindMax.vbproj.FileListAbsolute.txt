@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.exe
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.deps.json
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.dll
+D:\Learn VB.NET\PR.NET 3\EP1\bin\Debug\netcoreapp3.1\EP1_FindMax.pdb
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.dll
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.pdb
+D:\Learn VB.NET\PR.NET 3\EP1\obj\Debug\netcoreapp3.1\EP1_FindMax.genruntimeconfig.cache

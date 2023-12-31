@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.exe
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.deps.json
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.dll
+D:\Learn VB.NET\PR.NET 3\EP_Functions\bin\Debug\netcoreapp3.1\EP_Functions.pdb
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.dll
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.pdb
+D:\Learn VB.NET\PR.NET 3\EP_Functions\obj\Debug\netcoreapp3.1\EP_Functions.genruntimeconfig.cache

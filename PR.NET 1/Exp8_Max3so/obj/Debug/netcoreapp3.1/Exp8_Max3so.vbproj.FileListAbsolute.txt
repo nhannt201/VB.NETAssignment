@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.exe
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.dll
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\bin\Debug\netcoreapp3.1\Exp8_Max3so.pdb
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.dll
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.pdb
+D:\Learn VB.NET\PR.NET 1\Exp8_Max3so\obj\Debug\netcoreapp3.1\Exp8_Max3so.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.exe
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.dll
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\bin\Debug\netcoreapp3.1\Exp7_TimGT.pdb
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.dll
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.pdb
+D:\Learn VB.NET\PR.NET 1\Exp7_TimGT\obj\Debug\netcoreapp3.1\Exp7_TimGT.genruntimeconfig.cache

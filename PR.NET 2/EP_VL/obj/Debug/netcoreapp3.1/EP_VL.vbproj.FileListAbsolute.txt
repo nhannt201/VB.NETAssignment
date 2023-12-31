@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.exe
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.deps.json
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.dll
+D:\Learn VB.NET\PR.NET 2\EP_VL\bin\Debug\netcoreapp3.1\EP_VL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.dll
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.pdb
+D:\Learn VB.NET\PR.NET 2\EP_VL\obj\Debug\netcoreapp3.1\EP_VL.genruntimeconfig.cache

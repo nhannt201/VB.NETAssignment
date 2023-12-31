@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.exe
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.deps.json
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.dll
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\bin\Debug\netcoreapp3.1\EP_ProcedureDEMO.pdb
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.dll
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.pdb
+D:\Learn VB.NET\PR.NET 3\EP_ProcedureDEMO\obj\Debug\netcoreapp3.1\EP_ProcedureDEMO.genruntimeconfig.cache

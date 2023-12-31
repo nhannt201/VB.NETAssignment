@@ -1,0 +1,25 @@
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.exe
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.deps.json
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.runtimeconfig.json
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.runtimeconfig.dev.json
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.dll
+D:\Learn VB.NET\Exp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.pdb
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.AssemblyInfoInputs.cache
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.AssemblyInfo.vb
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.dll
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.pdb
+D:\Learn VB.NET\Exp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.genruntimeconfig.cache
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.exe
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.deps.json
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.dll
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exp1.pdb
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.dll
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.pdb
+D:\Learn VB.NET\PR.NET 1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exp1.genruntimeconfig.cache

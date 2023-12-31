@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.exe
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.deps.json
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.dll
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\bin\Debug\netcoreapp3.1\EP2_BREAKLOOP.pdb
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.dll
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.pdb
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.genruntimeconfig.cache
+D:\Learn VB.NET\PR.NET 2\EP2_BREAKLOOP\obj\Debug\netcoreapp3.1\EP2_BREAKLOOP.vbprojAssemblyReference.cache

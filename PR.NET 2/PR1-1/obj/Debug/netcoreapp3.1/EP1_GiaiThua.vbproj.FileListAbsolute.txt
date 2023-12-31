@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.exe
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.deps.json
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.dll
+D:\Learn VB.NET\PR.NET 2\PR1-1\bin\Debug\netcoreapp3.1\EP1_GiaiThua.pdb
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.dll
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.pdb
+D:\Learn VB.NET\PR.NET 2\PR1-1\obj\Debug\netcoreapp3.1\EP1_GiaiThua.genruntimeconfig.cache

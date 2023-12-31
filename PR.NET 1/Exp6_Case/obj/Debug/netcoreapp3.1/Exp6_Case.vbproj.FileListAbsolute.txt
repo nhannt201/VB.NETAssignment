@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.exe
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.dll
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\bin\Debug\netcoreapp3.1\Exp6_Case.pdb
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.dll
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.pdb
+D:\Learn VB.NET\PR.NET 1\Exp6_Case\obj\Debug\netcoreapp3.1\Exp6_Case.genruntimeconfig.cache

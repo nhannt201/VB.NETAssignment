@@ -1,0 +1,12 @@
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.exe
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.dll
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\bin\Debug\netcoreapp3.1\Exp4_MaxMin.pdb
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.dll
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.pdb
+D:\Learn VB.NET\PR.NET 1\Exp4_MaxMin\obj\Debug\netcoreapp3.1\Exp4_MaxMin.genruntimeconfig.cache

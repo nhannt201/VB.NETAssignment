@@ -1,0 +1,13 @@
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.exe
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.deps.json
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.runtimeconfig.json
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.runtimeconfig.dev.json
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.dll
+D:\Learn VB.NET\OOP\EP1\bin\Debug\netcoreapp3.1\EP1.pdb
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.vbprojAssemblyReference.cache
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.AssemblyInfoInputs.cache
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.AssemblyInfo.vb
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.dll
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.pdb
+D:\Learn VB.NET\OOP\EP1\obj\Debug\netcoreapp3.1\EP1.genruntimeconfig.cache

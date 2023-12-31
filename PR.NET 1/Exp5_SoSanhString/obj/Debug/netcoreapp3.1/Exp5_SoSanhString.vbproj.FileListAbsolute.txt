@@ -1,0 +1,13 @@
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.exe
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.deps.json
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.runtimeconfig.json
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.runtimeconfig.dev.json
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.dll
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\bin\Debug\netcoreapp3.1\Exp5_SoSanhString.pdb
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.vbprojAssemblyReference.cache
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.vbproj.CoreCompileInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.AssemblyInfoInputs.cache
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.AssemblyInfo.vb
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.dll
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.pdb
+D:\Learn VB.NET\PR.NET 1\Exp5_SoSanhString\obj\Debug\netcoreapp3.1\Exp5_SoSanhString.genruntimeconfig.cache
